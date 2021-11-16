@@ -52,6 +52,10 @@ li{
     width:50%;
 }
 
+a {
+    color:white;
+}
+
 /* Cake Page */
 
 .cake-text{
@@ -60,4 +64,13 @@ li{
     color:white;
     font-size: 25px;
     font-weight:bold;
+}
+.caption{
+    font-size: 15px;
+    font-style: italic;
+}
+.section-one{
+    border: 1px solid white;
+    background-color: darkslateblue;
+
 }
